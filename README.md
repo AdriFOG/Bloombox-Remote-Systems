@@ -16,10 +16,10 @@ The news feeds intentionally start empty. Publish verified news items with local
 
 ## URLs after merging into main
 
-- https://raw.githubusercontent.com/adri23rep-stack/BloomBox-Catalog/main/catalog/apps.json
-- https://raw.githubusercontent.com/adri23rep-stack/BloomBox-Catalog/main/catalog/tweaks.json
-- https://raw.githubusercontent.com/adri23rep-stack/BloomBox-Catalog/main/catalog/tweaks-v2.json
-- https://raw.githubusercontent.com/adri23rep-stack/BloomBox-Catalog/main/news/index.json
+- https://raw.githubusercontent.com/AdriFOG/Bloombox-Remote-Systems/main/catalog/apps.json
+- https://raw.githubusercontent.com/AdriFOG/Bloombox-Remote-Systems/main/catalog/tweaks.json
+- https://raw.githubusercontent.com/AdriFOG/Bloombox-Remote-Systems/main/catalog/tweaks-v2.json
+- https://raw.githubusercontent.com/AdriFOG/Bloombox-Remote-Systems/main/news/index.json
 
 Keep application binaries on their original publisher's release pages. Do not upload guest app data, credentials or private files to this repository.
 
