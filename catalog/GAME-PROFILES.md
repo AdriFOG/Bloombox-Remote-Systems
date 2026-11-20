@@ -40,4 +40,4 @@ schema versions are rejected.
 
 When this experimental branch is reviewed and merged, BloomBox's registry URL
 must be switched from the preview branch to
-`BloomBox-Catalog/main/catalog/game-profiles.json` before release.
+`Bloombox-Remote-Systems/main/catalog/game-profiles.json` before release.
