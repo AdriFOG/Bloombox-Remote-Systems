@@ -13,7 +13,7 @@ The theme store reads `catalog/themes.json` on `main`. Only approved community d
       "name": "Example Theme",
       "author": "Creator",
       "description": "A short description.",
-      "downloadURL": "https://raw.githubusercontent.com/adri23rep-stack/BloomBox-Catalog/main/themes/example-theme.bbtheme",
+      "downloadURL": "https://raw.githubusercontent.com/AdriFOG/Bloombox-Remote-Systems/main/themes/example-theme.bbtheme",
       "previewURL": null
     }
   ]
