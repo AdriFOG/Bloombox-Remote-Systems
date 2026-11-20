@@ -2,7 +2,7 @@ name: English catalog validation
 
 on:
   push:
-    branches: [feature/english-catalog-20261108]
+    branches: [main]
   pull_request:
     branches: [main]
   workflow_dispatch:
