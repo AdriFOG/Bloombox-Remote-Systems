@@ -1,0 +1,6 @@
+{
+  "schemaVersion": 1,
+  "catalog": "openportsgames/catalog",
+  "description": "BloomBox-owned test results for Android ports in Husk. Empty by design until real device tests are recorded.",
+  "entries": []
+}
