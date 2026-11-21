@@ -1,0 +1,8 @@
+{
+  "schemaVersion": 1,
+  "catalog": "openportsgames/catalog",
+  "catalogVersion": 2,
+  "updatedAt": "2026-11-21",
+  "purpose": "BloomBox/Husk device compatibility results only. Entries must be tied to exact port versions. OpenPortsGames is the upstream discovery catalog.",
+  "entries": []
+}
