@@ -1,9 +1,21 @@
 {
   "schemaVersion": 1,
   "locale": "en",
-  "updatedAt": "2026-11-01",
+  "updatedAt": "2026-11-21",
   "articles": [],
   "posts": [
+    {
+      "id": "bloombox-3-2-1-home",
+      "title": "BloomBox 3.2.1 · A cleaner Home 🌸",
+      "text": "Meet the redesigned Home! Eight shortcuts in two rows for APK Store, App Store, Themes, Modules, SideStore, Files, RAM+ and Settings. A smaller matte Profiles panel, compact News and recognizable Google Play, App Store and SideStore icons. Blank store icons have been fixed. Download 3.2.1 from GitHub Releases.",
+      "media": ""
+    },
+    {
+      "id": "bloombox-3-2-0",
+      "title": "BloomBox 3.2.0 · Ports & RAM+ 🎮",
+      "text": "Android and iPhone port catalogs, RAM+ improvements and installer updates have arrived. Husk game compatibility is verified separately; some known issues remain unresolved.",
+      "media": ""
+    },
     {
       "id": "bloombox-2-widgets",
       "title": "BloomBox 2.0 · Your desktop, your rules 🫧",
