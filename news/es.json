@@ -9,24 +9,6 @@
       "title": "BloomBox 3.2.1 · Un inicio más limpio 🌸",
       "text": "¡Ya llegó el nuevo inicio! Ocho accesos en dos filas para APK Store, App Store, Temas, Módulos, SideStore, Archivos, RAM+ y Ajustes. Perfiles más compactos sin Liquid Glass, noticias reorganizadas e iconos reconocibles de Google Play, App Store y SideStore. Corregimos los logos que aparecían en blanco. Descarga la 3.2.1 desde GitHub Releases.",
       "media": ""
-    },
-    {
-      "id": "bloombox-3-2-0",
-      "title": "BloomBox 3.2.0 · Ports y RAM+ 🎮",
-      "text": "Llegaron los catálogos de ports Android y iPhone, mejoras de RAM+ y cambios en el instalador. La compatibilidad de juegos con Husk se verifica por separado; algunos fallos conocidos siguen pendientes.",
-      "media": ""
-    },
-    {
-      "id": "bloombox-2-widgets",
-      "title": "BloomBox 2.0 · Tu escritorio, tus reglas 🫧",
-      "text": "¡Llegan los widgets libres! Fotos, GIFs animados y tamaños ajustables, directamente entre tus aplicaciones.",
-      "media": "https://raw.githubusercontent.com/AdriFOG/Bloombox-Remote-Systems/main/news/images/D110339D-7B09-4531-9DC0-71703556AC60.gif"
-    },
-    {
-      "id": "bloombox-alive",
-      "title": "BloomBox Alive 🌊",
-      "text": "La ola de iconos ya está en pruebas. Esta sección se actualiza desde GitHub sin volver a instalar la IPA.",
-      "media": ""
     }
   ]
 }
