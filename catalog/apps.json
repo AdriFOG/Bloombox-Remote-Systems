@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "catalogID": "bloombox.official-community.apps",
-  "updatedAt": "2026-11-03",
+  "updatedAt": "2026-11-23",
   "purpose": "Community app listings. App binaries remain hosted by their verified original publishers.",
   "apps": [
     {
@@ -118,6 +118,82 @@
       ],
       "descriptionEn": "Modified YouTube Music client for iOS with background playback, ad blocking, and audio options. Not an official Google app.",
       "notesEn": "Security not verified: the release URL and SHA-256 were confirmed. Reviewing parts of a fork is not an IPA audit; signing in shares session data with the app. Use a secondary account for sensitive accounts."
+    },
+    {
+      "id": "eeveespotify-reincarnated",
+      "name": "EeveeSpotify (Reincarnated)",
+      "creator": "jaydenjcpy / faroukbmiled (tweak) / estrogencat (IPA)",
+      "category": "apps",
+      "description": "Cliente de Spotify modificado para iOS, con opciones adicionales de reproducción y letras. No es una aplicación oficial de Spotify y algunas funciones dependen del servidor.",
+      "officialWebsite": "https://github.com/estrogencat/EeveeIPA",
+      "officialReleases": "https://github.com/estrogencat/EeveeIPA/releases/tag/7.5.0-2026-11-17-23-31-29",
+      "releaseSource": {
+        "type": "github-releases",
+        "owner": "estrogencat",
+        "repo": "EeveeIPA",
+        "assetFileName": "EeveeSpotify-9.2.0-ESR-7.5.0.ipa"
+      },
+      "currentOfficialRelease": "Spotify 9.2.0 / EeveeSpotify Reincarnated 7.5.0",
+      "directDownloadURL": "https://github.com/estrogencat/EeveeIPA/releases/download/7.5.0-2026-11-17-23-31-29/EeveeSpotify-9.2.0-ESR-7.5.0.ipa",
+      "fileName": "EeveeSpotify-9.2.0-ESR-7.5.0.ipa",
+      "sha256": "0e5ad135b225b507d903bb27ff9e987857289d13c0c78f77d34448bb35451a7a",
+      "releaseResolution": "verified-github-release-asset-digest-only",
+      "installMode": "guest",
+      "sourceVerified": true,
+      "featured": true,
+      "useAtOwnRisk": true,
+      "installsInsideBloomBox": "not-tested",
+      "aliases": [
+        "EeveeSpotify",
+        "Eevee Spotify",
+        "EeveeSpotifyReincarnated",
+        "Spotify"
+      ],
+      "notes": "Se ofrece la IPA regular (sin parche adicional), indicada por el distribuidor como compatible con SideStore. Archivo alojado en el release original de estrogencat, con SHA-256 publicado por GitHub. No se ha comprobado su instalación ni reproducción como app compartida en BloomBox/MediaBloom. No se ha auditado la seguridad del binario modificado.",
+      "warnings": [
+        "Cliente de Spotify modificado y no oficial; puede acceder a la sesión de tu cuenta. No se ha auditado completamente la IPA.",
+        "La integridad SHA-256 confirma el archivo del release, no que sea seguro.",
+        "Compatibilidad con BloomBox/MediaBloom sin verificar; las funciones Premium dependientes del servidor pueden no funcionar."
+      ],
+      "descriptionEn": "Modified Spotify client for iOS with additional playback and lyrics options. Not an official Spotify app; some features depend on Spotify's servers.",
+      "notesEn": "Regular (non-patched) IPA, which its distributor says is compatible with SideStore. Hosted on estrogencat's original release with a GitHub-published SHA-256. Installation and playback as a shared BloomBox/MediaBloom guest have not been tested. The modified binary has not undergone a full security audit."
+    },
+    {
+      "id": "spotube-ios",
+      "name": "Spotube",
+      "creator": "team-spotube / Spotube contributors",
+      "category": "apps",
+      "description": "Reproductor de música de código abierto para iOS que permite explorar música y reproducir audio mediante fuentes configurables. No es el cliente oficial de Spotify.",
+      "officialWebsite": "https://github.com/team-spotube/spotube",
+      "officialReleases": "https://github.com/team-spotube/spotube/releases/tag/v6.0.0",
+      "releaseSource": {
+        "type": "github-releases",
+        "owner": "team-spotube",
+        "repo": "spotube",
+        "assetFileName": "Spotube-ios.ipa"
+      },
+      "currentOfficialRelease": "6.0.0",
+      "directDownloadURL": "https://github.com/team-spotube/spotube/releases/download/v6.0.0/Spotube-ios.ipa",
+      "fileName": "Spotube-ios.ipa",
+      "sha256": "801f3039bab4d09c9ff290d52a495c37aa6707e74bf3d27d22d4b5fcd85fe5fe",
+      "releaseResolution": "verified-github-release-asset-digest-only",
+      "installMode": "guest",
+      "sourceVerified": true,
+      "featured": true,
+      "useAtOwnRisk": true,
+      "installsInsideBloomBox": "not-tested",
+      "aliases": [
+        "Spotube",
+        "Spotube Music",
+        "Spotube iOS"
+      ],
+      "notes": "IPA para iOS publicada por el equipo de Spotube en GitHub. El SHA-256 procede de los metadatos oficiales del asset. El proyecto usa fuentes de audio configurables, por lo que no equivale al reproductor oficial de Spotify. Compatibilidad con BloomBox/MediaBloom todavía sin probar.",
+      "warnings": [
+        "No se ha probado la instalación ni la reproducción dentro de BloomBox/MediaBloom.",
+        "La disponibilidad de audio depende de las fuentes configuradas y de sus condiciones de uso."
+      ],
+      "descriptionEn": "Open-source iOS music player for browsing music and playing audio from configurable sources. Not the official Spotify client.",
+      "notesEn": "iOS IPA published by the Spotube team on GitHub, with a SHA-256 from the official release asset metadata. Spotube uses configurable audio sources rather than acting as the official Spotify player. BloomBox/MediaBloom compatibility has not been tested."
     },
     {
       "id": "dolphinios-public-beta",
