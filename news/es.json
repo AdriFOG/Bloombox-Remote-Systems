@@ -1,9 +1,39 @@
 {
   "schemaVersion": 1,
   "locale": "es",
-  "updatedAt": "2026-11-21",
+  "updatedAt": "2026-11-24",
   "articles": [],
   "posts": [
+    {
+      "id": "mediabloom-2-0-1-bloom",
+      "title": "MediaBloom 2.0.1 · Conoce a Bloom 🎧",
+      "text": "¡Bloom tiene audífonos! El nuevo icono de MediaBloom se adapta a las apariencias normal, oscura, tintada y Liquid Glass en versiones compatibles de iOS. Conserva todas las funciones de MediaBloom 2.0 y se instala por separado de BloomBox. Disponible en GitHub Releases.",
+      "media": ""
+    },
+    {
+      "id": "bloombox-3-4-0-nova",
+      "title": "BloomBox 3.4.0 · Nova Launcher y Bloom 🌸",
+      "text": "¡Personaliza tu escritorio con Nova, el nuevo estilo inspirado en Android! Organiza apps, carpetas, páginas y widgets; personaliza el cajón de apps, la barra de búsqueda, los iconos y el fondo. Desliza a la derecha desde la primera página para ver noticias. También llega Bloom, nuestra nueva mascota, con icono adaptable a las apariencias de iOS compatibles. Disponible en GitHub Releases.",
+      "media": ""
+    },
+    {
+      "id": "bloombox-3-3-3-install",
+      "title": "BloomBox 3.3.3 · Instalación y regalos 🎁",
+      "text": "Las apps recién instaladas aparecen en el escritorio sin reiniciar BloomBox. Mejoramos la importación de IPA y TIPA desde Archivos, conservando el archivo original. Regresan los regalos animados al estilo 3DS y se mantienen las etiquetas multimedia compartidas con MediaBloom. Incluido en 3.4.0.",
+      "media": ""
+    },
+    {
+      "id": "mediabloom-2-0-0-music",
+      "title": "MediaBloom 2.0 · Música y personalización 💜",
+      "text": "Descubre recomendaciones musicales basadas en tus artistas favoritos, incluidos artistas en español. Las portadas y recomendaciones se guardan en caché para reducir tiempos de carga. Personaliza fondos, colores y transparencia de los paneles; usa etiquetas compartidas con BloomBox y controles de volumen BloomAudio experimentales. La integración completa de Spotify sigue pendiente. Incluido en 2.0.1.",
+      "media": ""
+    },
+    {
+      "id": "bloombox-3-3-1-polish",
+      "title": "BloomBox 3.3 · Estabilidad y personalización ✨",
+      "text": "GameBox reconoce juegos instalados en Husk, SideStore abre directamente el flujo de instalación, el Dock y las carpetas tienen fondos más transparentes y puedes elegir el idioma por app cuando sea compatible. También añadimos limpieza segura de temporales al superar 1 GB, sin borrar apps ni partidas. Incluido en 3.4.0.",
+      "media": ""
+    },
     {
       "id": "bloombox-3-2-1-home",
       "title": "BloomBox 3.2.1 · Un inicio más limpio 🌸",

@@ -1,9 +1,39 @@
 {
   "schemaVersion": 1,
   "locale": "en",
-  "updatedAt": "2026-11-21",
+  "updatedAt": "2026-11-24",
   "articles": [],
   "posts": [
+    {
+      "id": "mediabloom-2-0-1-bloom",
+      "title": "MediaBloom 2.0.1 · Meet Bloom 🎧",
+      "text": "Bloom has headphones! MediaBloom's new icon supports standard, dark, tinted and Liquid Glass appearances on compatible iOS versions. All MediaBloom 2.0 features remain available, and the app installs separately from BloomBox. Available on GitHub Releases.",
+      "media": ""
+    },
+    {
+      "id": "bloombox-3-4-0-nova",
+      "title": "BloomBox 3.4.0 · Nova Launcher & Bloom 🌸",
+      "text": "Make your Home your own with Nova, the new Android-inspired launcher style! Arrange apps, folders, pages and widgets; customize the app drawer, search bar, icons and wallpaper. Swipe right from the first page to see News. Meet Bloom, our new mascot, with an icon that adapts to supported iOS appearances. Available on GitHub Releases.",
+      "media": ""
+    },
+    {
+      "id": "bloombox-3-3-3-install",
+      "title": "BloomBox 3.3.3 · Installation & gifts 🎁",
+      "text": "Newly installed apps appear on Home without restarting BloomBox. IPA and TIPA imports from Files are more reliable and preserve the original file. The 3DS-style animated gifts are back, along with shared media tags for MediaBloom. Included in 3.4.0.",
+      "media": ""
+    },
+    {
+      "id": "mediabloom-2-0-0-music",
+      "title": "MediaBloom 2.0 · Music & customization 💜",
+      "text": "Discover music recommendations based on your favorite artists, including Spanish-language artists. Artwork and recommendations are cached to reduce loading times. Customize wallpapers, colors and panel transparency; use shared BloomBox media tags and experimental BloomAudio volume controls. Full Spotify integration is still pending. Included in 2.0.1.",
+      "media": ""
+    },
+    {
+      "id": "bloombox-3-3-1-polish",
+      "title": "BloomBox 3.3 · Stability & customization ✨",
+      "text": "GameBox recognizes games installed in Husk, SideStore opens the installation flow directly, the Dock and folders have more transparent backgrounds, and supported apps can use individual language settings. Safe cleanup removes eligible temporary files when they exceed 1 GB, without deleting apps or saves. Included in 3.4.0.",
+      "media": ""
+    },
     {
       "id": "bloombox-3-2-1-home",
       "title": "BloomBox 3.2.1 · A cleaner Home 🌸",
